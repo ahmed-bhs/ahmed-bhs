@@ -1,38 +1,53 @@
-### About Me
+#### Hey there
 
-Hello! I'm a passionate **Software Engineer** specializing in modern web technologies. My primary focus is on delivering robust, high-quality applications by applying **design patterns**, **SOLID principles**, and **clean architecture**.
+I'm Ahmed, a software engineer focused on building reliable web applications with PHP, Symfony, API Platform, clean architecture, and pragmatic engineering practices.
 
-I approach development with a craftsman's mindset, focusing on **best practices**, **algorithm optimization**, and robust **CI/CD integration** to build reliable and scalable solutions. I have deep expertise in the **Symfony framework**, **API Platform**, and **DevOps tools**.
+```json
+{
+  "Ahmed": {
+    "role": "Software Engineer",
+    "focus": [
+      "Symfony applications",
+      "API Platform projects",
+      "Clean architecture",
+      "Software quality",
+      "Security and performance audits"
+    ],
+    "open_source": {
+      "api_platform": "https://api-platform.com/community/contributors/ahmed-bhs/",
+      "symfony_connect": "https://connect.symfony.com/profile/famas23"
+    },
+    "certifications": [
+      "Certified Symfony Developer",
+      "Certified eZ Platform Developer"
+    ],
+    "security": "https://www.root-me.org/ahmed-36606",
+    "contact": {
+      "github": "https://github.com/ahmed-bhs",
+      "twitter": "https://twitter.com/AhmedEHASSINE"
+    }
+  }
+}
+```
 
-### Open Source Contributions
+### What I Work On
 
-I am a strong believer in and active contributor to open source, which I find essential for driving innovation and community collaboration.
+I design and build scalable web applications, with a strong attention to maintainability, domain boundaries, automated checks, and production constraints. I care about code that is easy to reason about, easy to test, and robust enough to survive real usage.
 
-* **API Platform:** Active contributor. [View my contributions](https://api-platform.com/community/contributors/ahmed-bhs/).
-* **Symfony:** Contributed to feature development and documentation. [View my Symfony Connect profile](https://connect.symfony.com/profile/famas23).
+My day-to-day work usually involves **PHP**, **Symfony**, **API Platform**, asynchronous processing, search engines, CI/CD workflows, and technical audits covering quality, security, and performance.
 
-### Services & Expertise
+### Open Source
 
-I am available to share my expertise in the following areas:
+* **API Platform:** active contributor. [View my contributions](https://api-platform.com/community/contributors/ahmed-bhs/).
+* **Symfony:** contributor to features and documentation. [View my Symfony Connect profile](https://connect.symfony.com/profile/famas23).
 
-* Designing and developing scalable **web applications**
-* Conducting **security, quality, and performance audits**
+### Stack
 
-### Technology Stack & Certifications
-
-Here is an overview of the technologies I work with and my credentials.
-
-**Core Technologies:**
-* **Back-end:** PHP | Symfony | eZ Platform | API Platform | Async Queuing
-* **Front-end:** HTML5/CSS3 | jQuery | Angular | Bootstrap
-* **Search Engines:** Elasticsearch | Solr
-
-**Certifications:**
-* Certified **Symfony** Developer
-* Certified **eZ Platform** Developer
-
-I also have a strong interest in cybersecurity, honed through numerous security challenges on [**Root Me**](https://www.root-me.org/ahmed-36606), which brings a security-first mindset to my development process.
+* **Back-end:** PHP, Symfony, API Platform, eZ Platform, async queuing
+* **Front-end:** HTML5, CSS3, jQuery, Angular, Bootstrap
+* **Search:** Elasticsearch, Solr
+* **Practices:** SOLID, design patterns, clean architecture, CI/CD, audits
 
 ### Let's Connect
 
-I'm always open to connecting and sharing ideas. Feel free to reach out to me on Twitter: [@AhmedEHASSINE](https://twitter.com/AhmedEHASSINE).
+You can reach me on [Twitter](https://twitter.com/AhmedEHASSINE) or browse my work here on [GitHub](https://github.com/ahmed-bhs).
