@@ -157,6 +157,75 @@ I'm Ahmed, a software engineer focused on building reliable web applications wit
         "Document decisions, not obvious code"
       ]
     },
+    "patterns": {
+      "creational": [
+        "Factory Method",
+        "Abstract Factory",
+        "Builder",
+        "Prototype",
+        "Singleton when framework-managed and justified"
+      ],
+      "structural": [
+        "Adapter",
+        "Bridge",
+        "Composite",
+        "Decorator",
+        "Facade",
+        "Proxy",
+        "Data Transfer Object"
+      ],
+      "behavioral": [
+        "Strategy",
+        "Command",
+        "Observer",
+        "Mediator",
+        "State",
+        "Specification",
+        "Template Method",
+        "Chain of Responsibility",
+        "Iterator",
+        "Null Object"
+      ],
+      "enterprise_application": [
+        "Repository",
+        "Service Layer",
+        "Application Service",
+        "Domain Service",
+        "Unit of Work",
+        "Data Mapper",
+        "Identity Map",
+        "Value Object",
+        "Aggregate",
+        "Domain Event",
+        "CQRS",
+        "Event Dispatcher"
+      ],
+      "php_and_symfony": [
+        "DTO",
+        "ArrayIterator",
+        "ArrayAccess",
+        "Accessor",
+        "Normalizer",
+        "Serializer",
+        "Form Type",
+        "Event Subscriber",
+        "Event Listener",
+        "Compiler Pass",
+        "Service Decorator",
+        "Message Handler",
+        "Voter",
+        "Constraint Validator"
+      ],
+      "testing": [
+        "Test Double",
+        "Mock",
+        "Stub",
+        "Fake",
+        "Fixture",
+        "Mother Object",
+        "Builder for tests"
+      ]
+    },
     "certifications": [
       "Certified Symfony Developer",
       "Certified eZ Platform Developer"
